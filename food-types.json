@@ -88,7 +88,7 @@
         { "name": { "value": "Queijo", "synonyms": [] } },
         { "name": { "value": "Queijo muçarela", "synonyms": [ "Muçarela" ] } },
         { "name": { "value": "Queijo provolone", "synonyms": [] } },
-        { "name": { "value": "Shoyu", "synonyms": [ "Molho de soja", "Molho shoyu" ] } },
+        { "name": { "value": "Shoyu", "synonyms": [ "Molho shoyu" ] } },
         { "name": { "value": "Soja", "synonyms": [] } },
         { "name": { "value": "Tapioca", "synonyms": [ "Goma de Tapioca" ] } },
         { "name": { "value": "Tomate", "synonyms": [] } },
