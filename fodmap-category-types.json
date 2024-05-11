@@ -1,0 +1,112 @@
+{
+    "name": "FodmapCategory",
+    "values": [
+        {
+            "id": "1", 
+            "name": {
+                "value": "Açúcares e Doces",
+                "synonyms": [
+                    "açúcares",
+                    "doces",
+                    "sweets",
+                    "sugar"
+                ]
+            }
+        },
+        {
+            "id": "2",
+            "name": {
+                "value": "Bebidas",
+                "synonyms": [
+                    "bebidas",
+                    "refrigerantes",
+                    "drinks",
+                    "beverages"
+                ]
+            }
+        },
+        {
+            "id": "3",
+            "name": {
+                "value": "Carnes",
+                "synonyms": [
+                    "carnes",
+                    "meats"
+                ]
+            }
+        },
+        {
+            "id": "4",
+            "name": {
+                "value": "Condimentos e Temperos",
+                "synonyms": [
+                    "condimentos",
+                    "temperos",
+                    "pimentas",
+                    "condiments",
+                    "seasonings",
+                    "spices"
+                ]
+            }
+        },
+        {
+            "id": "5",
+            "name": {
+                "value": "Frutas",
+                "synonyms": [
+                    "fruits"
+                ]
+            }
+        },
+        {
+            "id": "6",
+            "name": {
+                "value": "Laticínios e derivados",
+                "synonyms": [
+                    "laticínios",
+                    "derivados de leite",
+                    "dairy",
+                    "dairy products"
+                ]
+            }
+        },
+        {
+            "id": "7",
+            "name": {
+                "value": "Massas, cereais e pães",
+                "synonyms": [
+                    "massas",
+                    "cereais",
+                    "pães",
+                    "pastas",
+                    "cereals",
+                    "breads"
+                ]
+            }
+        },
+        {
+            "id": "8",
+            "name": {
+                "value": "Oleaginosas, leguminosas e grãos",
+                "synonyms": [
+                    "grãos",
+                    "sementes",
+                    "nuts",
+                    "grains"
+                ]
+            }
+        },
+        {
+            "id": "9",
+            "name": {
+                "value": "Vegetais e Legumes",
+                "synonyms": [
+                    "vegetais",
+                    "legumes",
+                    "vegetables",
+                    "greens"
+                ]
+            }
+        }
+    ]
+}
